@@ -35,7 +35,7 @@ This visualisation shows an agent collecting treasures using different search st
   - `Main.pde`: Main sketch for the minimax visualisation.
   - `State.pde`: Defines the state of the game.
   - `sketch.properties`: Properties file for the Processing sketch.
-- `treasure_hunt/`: Contains the treasure hunt algorithm visualisation.
+- `treasure-hunt/`: Contains the treasure hunt algorithm visualisation.
   - `Main.pde`: Main sketch for the treasure hunt visualisation.
   - `Node.pde`: Defines the node structure for the search algorithms.
   - `SearchBoard.pde`: Defines the search board and search logic.
